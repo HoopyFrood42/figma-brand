@@ -1,0 +1,10 @@
+{
+   "svgPreview.autoOpen": true,
+   "svgPreview.scaleToFit": true,
+   "svgPreview.style": {
+      
+   },
+   "workbench.editorAssociations": {
+      "*.svg": "default"
+   }
+}  
