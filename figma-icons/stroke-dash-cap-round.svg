@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24">
+  <title>Stroke dash cap round</title>
+  <path fill="currentColor" fill-rule="evenodd" d="M5.5 7a.5.5 0 0 0 0 1H14a4 4 0 0 1 0 8H5.5a.5.5 0 0 0 0 1H14a5 5 0 0 0 0-10z" clip-rule="evenodd"/>
+  <path fill="currentColor" fill-opacity="0.3" d="M6.304 11.51a.5.5 0 0 1 0 .98l-.1.01H5.5a.5.5 0 0 1 0-1h.703zm3.75 0a.5.5 0 0 1 0 .98l-.1.01H8.546a.5.5 0 0 1 0-1h1.406zm3.047 0a.5.5 0 0 1 0 .98L13 12.5h-.703a.5.5 0 1 1 0-1H13z"/>
+</svg>
